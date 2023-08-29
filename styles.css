@@ -1,0 +1,103 @@
+.content { 
+    font-family: Helvetica sans-serif;
+    margin: 0px;
+    padding: 0px;
+    background-color: yellow;
+}
+
+.content-header { 
+    background-color: black;
+    color: white;
+    padding: 7px;
+    text-align: center;
+    font-family: cursive;
+    font-size: 14px;
+}
+
+.content main { 
+    max-width: 800px;
+    margin: 18px auto;
+    background-color: orange;
+    padding: 18px;
+    border-radius: 5px;
+    box-shadow: 0 0 5px #333 ;
+    text-align: center;
+    font-style: oblique;
+    border: 1px solid;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+    
+}
+
+.content-cel, .content-item { 
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: center;
+}
+
+.content-cel { 
+    background-color: #f2f2f2;
+}
+
+.content-footer { 
+    background-color: black;
+    color: white;
+    padding: 7px;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+
+table { 
+    width: 100%;
+}
+
+th { 
+    height: 70px;
+    background-color: black;
+    font-family: cursive;
+    color: black;
+}
+
+td { 
+    background-color: black;
+    font-family: cursive;
+    color: white;
+}
+
+th, td { 
+    border-bottom: 1px solid #ddd;
+    font-style: italic;
+    text-align: center;
+}
+
+body { 
+    background-image: url("roupas.jpeg");
+}
+
+td:hover { 
+    background-color: coral;
+}
+
+table, th, td { 
+    border: 1px solid;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
